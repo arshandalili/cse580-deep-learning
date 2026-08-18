@@ -1,7 +1,7 @@
 # HW1 - Rethinking Generalization
 
-Reproduce the core experiments of Zhang, Bengio, Hardt, Recht & Vinyals,
-*Understanding Deep Learning Requires Rethinking Generalization*, ICLR 2017
+Reproduce the core experiments of
+*Understanding Deep Learning Requires Rethinking Generalization*, Zhang et al., ICLR 2017
 ([arXiv:1611.03530](https://arxiv.org/abs/1611.03530)). Read Sections 1-4 before you start.
 
 ## Setup
